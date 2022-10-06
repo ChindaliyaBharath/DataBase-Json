@@ -1,0 +1,29 @@
+[
+    {
+        "category_id":5,
+        "category_name":"Mutual funds",
+        "subcategory_id":105,
+        "subcategory_name":"Mutual Funds",
+        "product_id":1,
+        "product_name":"hdfc low risk funds"   
+    },
+    {
+        "category_id":5,
+        "category_name":"Mutual funds",
+        "subcategory_id":105,
+        "subcategory_name":"Mutual Funds",
+        "product_id":1,
+        "product_name":"hdfc mediumrisk funds" 
+       
+    },
+    {
+        "category_id":5,
+        "category_name":"Mutual funds",
+        "subcategory_id":105,
+        "subcategory_name":"Mutual Funds",
+        "product_id":1,
+        "product_name":"Mutual highrisk Funds" 
+       
+    }
+
+]

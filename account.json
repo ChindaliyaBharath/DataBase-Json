@@ -1,0 +1,85 @@
+[
+    {
+        "account" : "savings account",
+        "login-id" : 1
+        
+    },
+    
+    {
+        "account" : "Transact",
+        "login-id" : 2
+        
+    },
+    {
+        "account" : "Funds transfer to own",
+        "login-id" : 3
+        
+    },
+    {
+        "account" : "Open fixed Deposit",
+        "login-id" : 4
+        
+    },
+    {
+        "account" : "open recurring seposit",
+        "login-id" : 5
+        
+    },
+    {
+        "account" : "Enquire",
+        "login-id" : 6
+        
+    },
+    {
+        "account" : "view account balance",
+        "login-id" : 7
+        
+    },
+    {
+        "account" : "view account statement current and previous month",
+        "login-id" : 8
+        
+    },{
+        "account" : "view account statement upto 5 years",
+        "login-id" : 9
+        
+    },{
+        "account" : "view fixed deposit summary",
+        "login-id" : 10
+        
+    },{
+        "account" : "view Recurring deposit summary",
+        "login-id" : 11
+        
+    },{
+        "account" : "Request",
+        "login-id" : 12
+        
+    },{
+        "account" : "confirm KYC details",
+        "login-id" : 13
+        
+    },{
+        "account" : "update extended kyc",
+        "login-id" : 14
+        
+    },{
+        "account" : "checkbook",
+        "login-id" : 15
+        
+    },{
+        "account" : "Demand Draft",
+        "login-id" : 16
+        
+    },
+    {
+        "account" : "Add/Update PAN number",
+        "login-id" : 17
+        
+    },
+    {
+        "account" : "view/update nomination details",
+        "login-id" : 18
+        
+    }
+]

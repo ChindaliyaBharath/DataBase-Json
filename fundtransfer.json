@@ -1,0 +1,17 @@
+[
+    {
+        "category_id": 1,
+        "category_name": "Transact",
+        "category_image": "https://s3.ap-south-1.amazonaws.com/staticassets.zerodha.net/support-portal/intranet_file_uploads/2019/06/26/Article/HR4DQQ20_Screenshot_141.png"
+    },
+    {
+        "category_id": 2,
+        "category_name": "Enquire",
+        "category_image": "https://v1.hdfcbank.com/htdocs/common/NetBanking/revamp/images/03_Improved_Usability.jpg"
+    },
+    {
+        "category_id": 3,
+        "category_name": "Request",
+        "category_image": "https://i0.wp.com/maapsworld.com/wp-content/uploads/2019/12/Transfer-Money-From-HDFC-to-Other-Bank-online.jpg?w=780&ssl=1"
+    }
+]

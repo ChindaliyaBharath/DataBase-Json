@@ -1,0 +1,36 @@
+[
+    {
+        "category_id":4,
+        "category_name":"Insurance",
+        "subcategory_id":105,
+        "subcategory_name":"Insurance",
+        "product_id":1,
+        "product_name":"hdfc health insurance",
+        "old_price":2599,
+        "new_price":2300
+       
+    },
+    {
+        "category_id":4,
+        "category_name":"Term Insurance",
+        "subcategory_id":105,
+        "subcategory_name":"Insurance",
+        "product_id":2,
+        "product_name":"hdfc health insurance",
+        "old_price":15000,
+        "new_price":13500
+       
+    },
+    {
+        "category_id":4,
+        "category_name":"Vechile Insurance",
+        "subcategory_id":105,
+        "subcategory_name":"Insurance",
+        "product_id":1,
+        "product_name":"hdfc health insurance",
+        "old_price":25999,
+        "new_price":26000
+       
+    }
+
+]

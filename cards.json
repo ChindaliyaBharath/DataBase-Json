@@ -1,0 +1,87 @@
+[
+    {
+    
+        "category_id":2,
+            "category_name":"cards",
+            "subcategory_id":203,
+            "subcategory_name":"Credit cards",
+         "product_name":"HDFC credit card",
+            "card_limit":"50000",
+            "outstanding_limit":265,
+            "offer":"",
+            "variant":{
+                "offers":[],
+                "Insta-loan":["20000"],
+                "Jumbo-loan":["50000"]
+        
+            },
+            
+            "product_img":[
+                "https://www.winytips.com/wp-content/uploads/2020/03/HDFC-Credit-Card-CC-login-page--768x510.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-Bank-credit-card-summary-view-.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-CC-login-options--768x488.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-credit-card-first-time-user-login.jpg"
+                
+                
+              
+    
+            ]
+
+    },
+    {
+    
+        "category_id":2,
+            "category_name":"cards",
+            "subcategory_id":203,
+            "subcategory_name":"Credit cards",
+         "product_name":"HDFC credit card",
+            "card_limit":"50000",
+            "outstanding_limit":265,
+            "offer":"jumbo-loan",
+            "variant":{
+                "offers":[],
+                "Jumbo-loan":["50000"]
+        
+            },
+            
+            "product_img":[
+                "https://www.winytips.com/wp-content/uploads/2020/03/HDFC-Credit-Card-CC-login-page--768x510.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-Bank-credit-card-summary-view-.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-CC-login-options--768x488.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-credit-card-first-time-user-login.jpg"
+                
+                
+              
+    
+            ]
+
+    },
+    {
+    
+        "category_id":2,
+            "category_name":"cards",
+            "subcategory_id":203,
+            "subcategory_name":"Credit cards",
+         "product_name":"HDFC credit card",
+            "card_limit":"50000",
+            "outstanding_limit":265,
+            "offer":"Insta-loan",
+            "variant":{
+                "offers":[],
+                "Insta-loan":["20000"]
+                
+            },
+            
+            "product_img":[
+                "https://www.winytips.com/wp-content/uploads/2020/03/HDFC-Credit-Card-CC-login-page--768x510.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-Bank-credit-card-summary-view-.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-CC-login-options--768x488.jpg",
+                "https://www.winytips.com/wp-content/uploads/2019/06/HDFC-credit-card-first-time-user-login.jpg"
+                
+                
+              
+    
+            ]
+
+    }
+]

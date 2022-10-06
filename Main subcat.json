@@ -1,0 +1,71 @@
+[
+    {
+        "subcategory_id":101,
+        "subcategory_name":"Accounts",
+        "category_id":1
+    },
+    {
+        "subcategory_id":102,
+        "subcategory_name":"Fund Transfer",
+        "category_id":1
+    },
+    {
+        "subcategory_id":103,
+        "subcategory_name":"Cards",
+        "category_id":1
+    },
+    {
+    
+        "subcategory_id":104,
+        "subcategory_name":"Mutual Funds",
+        "category_id":1
+        
+    },
+    {
+        "subcategory_id":105,
+        "subcategory_name":"Insurance",
+        "category_id":1
+    },
+
+    
+
+
+
+
+
+
+
+
+
+    {
+        "subcategory_id":201,
+        "subcategory_name":"savings account",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":202,
+        "subcategory_name":"Fund Transfer",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":203,
+        "subcategory_name":"credit and debit card",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":204,
+        "subcategory_name":"Insurance",
+        "category_id":2
+        
+    },
+    {
+        "subcategory_id":205,
+        "subcategory_name":"Mutual Funds",
+        "category_id":2
+        
+    }
+
+]
